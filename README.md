@@ -10,4 +10,11 @@
 
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
+-----------------------------------------------------------------------------------------------------------------
+## Redes sociais;
+
+
+
+<a href="https://discord.gg/HhVdDFsy3u"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+
 
